@@ -34,9 +34,4 @@ Feel free to customize and enhance the project by modifying the HTML, CSS, and J
 
 
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the terms of the license.
-
----
-
-Feel free to reach out if you have any questions or feedback. Enjoy exploring and contributing to the Spotify Clone project!
 
