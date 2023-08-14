@@ -16,7 +16,7 @@ The BUZZ project is a web-based music streaming application that allows users to
 
   
 ## Demo Link
-You can try the Awake Weather Web application by visiting the ( https://sneha-2603.github.io/BUZZ/)
+You can try the BUZZ Web application by visiting the ( https://sneha-2603.github.io/BUZZ/)
 
 ## Installation
 
